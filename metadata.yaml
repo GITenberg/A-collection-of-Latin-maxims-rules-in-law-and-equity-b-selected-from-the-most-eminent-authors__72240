@@ -1,0 +1,33 @@
+_repo: A-collection-of-Latin-maxims-rules-in-law-and-equity-b-selected-from-the-most-eminent-authors__72240
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Halkerston, Peter
+    gutenberg_agent_id: '56608'
+    url: http://www.gutenberg.org/2009/agents/56608
+    wikipedia: https://en.wikipedia.org/wiki/Peter_Halkerston
+description: ''
+gutenberg_issued: '2023-11-27'
+identifiers:
+  gutenberg: '72240'
+  lccn: '24030480'
+language: en
+pgterms:marc904: https://archive.org/details/collectionoflati00halkuoft
+pgterms:marc905: 20210728192750halkerston
+pgterms:marc906: '1823'
+pgterms:marc907: GB
+production_note: Linda Cantoni and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aEdinburgh :$bJohn Anderson and Co., $c1823.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Legal maxims'
+- !lcc 'KD'
+- GITenberg
+title: 'A collection of Latin maxims & rules, in law and equity : $b selected from
+  the most eminent authors, on the civil, canon, feudal, English and Scots law, with
+  an English translation, and an appendix of reference to the authorities from which
+  the maxims are selected'
+url: http://www.gutenberg.org/ebooks/72240
