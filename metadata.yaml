@@ -1,5 +1,8 @@
 _repo: A-collection-of-Latin-maxims-rules-in-law-and-equity-b-selected-from-the-most-eminent-authors__72240
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72240-h/images/cover.jpg
 creator:
   author:
     agent_name: Halkerston, Peter
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56608
     wikipedia: https://en.wikipedia.org/wiki/Peter_Halkerston
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72240#A-collection-of-Latin-maxims-rules-in-law-and-equity-b-selected-from-the-most-eminent-authors_
 gutenberg_issued: '2023-11-27'
 identifiers:
   gutenberg: '72240'
